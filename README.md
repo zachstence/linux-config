@@ -80,3 +80,13 @@ Configure tide
 ```sh
 tide configure
 ```
+
+### Nerd Font
+Tide needs a [Nerd Font](https://github.com/ryanoasis/nerd-fonts) for things to be pretty
+
+
+#### Windows
+On the latest Tag, download the `.zip` file for your chosen font. Extract the files and install all of the "Windows Compatible" fonts.
+
+#### Linux
+TODO
